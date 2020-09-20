@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-size: 21px;
+}
+
+.columns {
+  width: 750px;
+  display: flex;
+  text-align: center;
+  padding-left: 50px;
+  border: 10px solid royalblue;
+}
+.column {
+  margin: 0 10px;
+  padding-left: 10px;
+}
+header {
+  background-color: cadetblue;
+  text-align: center;
+  padding: 50px 0;
+  color: azure;
+}
+h1 {
+  font-size: 48;
+  margin: 0;
+}
+h2 {
+  font-size: 36px;
+}
+h3 {
+  font-size: 28px;
+}
+.intro {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  border: 5px solid palevioletred;
+  margin: 100px 450px;
+}
+
+.my-skills {
+  background-color: #1d3c41;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
+.column-1 {
+  margin-left: 400px;
+}
